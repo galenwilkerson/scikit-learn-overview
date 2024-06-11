@@ -68,3 +68,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - The Scikit-Learn developers for creating such a powerful and easy-to-use library.
 - The open-source community for providing valuable resources and support.
+
+## Links
+
+See the [scikit-learn](https://github.com/scikit-learn/scikit-learn) Github project.
+
